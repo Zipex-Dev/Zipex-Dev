@@ -1,7 +1,5 @@
 # Olá, eu sou Rafa! 👋
 
-<img src="https://raw.githubusercontent.com/username/imagens/perfil-banner.png" alt="Banner do GitHub" />
-
 ## 👨‍💻 Sobre mim:
 Sou um programador apaixonado por tecnologia. Atualmente estou focado em C#, ASP.NET e outras tecnologias web, além de explorar o mundo dos bancos de dados relacionais e não relacionais.
 
