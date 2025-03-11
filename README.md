@@ -4,8 +4,8 @@
 Sou um programador apaixonado por tecnologia. Atualmente estou focado em C#, ASP.NET e outras tecnologias web, além de explorar o mundo dos bancos de dados relacionais e não relacionais.
 
 - 🎓 **Estudo:** Aluno de Programação De Sistemas Informáticos na Escola Secundária de Odivelas.
-- 🌱 **Linguas Primárias:** C#, ASP.NET, HTML, CSS, JavaScript.
-- 💼 **Desenvolvendo:** Projeto PAP.
+- 🌱 **Linguas Primárias:** C#, ASP.NET, HTML, CSS, JavaScript, VB, VBA.
+- 💼 **Desenvolvendo:** Projeto PAP: Plataforma Escolar.
 - ⚡ **Fatos interessantes:** Além de programar, sou apaixonado por futebol.
 
 ---
@@ -32,7 +32,7 @@ Sou um programador apaixonado por tecnologia. Atualmente estou focado em C#, ASP
 
 ## 🔥 Projetos:
 ### 🌐 [PAP]
-**Descrição:** Por criar.  
+**Descrição:** Plataforma Escola.  
 **Repositório:** [Link para o repositório]()  
 ![Imagem do projeto]()
 
