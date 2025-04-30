@@ -33,8 +33,7 @@ Sou um programador apaixonado por tecnologia. Atualmente estou focado em C#, ASP
 ## 🔥 Projetos:
 ### 🌐 [PAP]
 **Descrição:** Plataforma Escola.  
-**Repositório:** [Link para o repositório]()  
-![Imagem do projeto]()
+**Repositório:** [Link para o repositório](https://github.com/Zipex-Dev/PlataformaEscolar)
 
 ---
 
